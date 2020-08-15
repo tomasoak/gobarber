@@ -1,6 +1,3 @@
-# gobarber
-:barber: GobBarber - Haircuts &amp; Shave - schedule service!
-
 <h1 align="center">
 	<img alt="GoStack" src=".github/logo.svg" width="200px" />
 </h1>
@@ -11,9 +8,9 @@
   </a>
 </p>
 
-## 👨🏻‍💻 Project repositories
+## :file_folder: Project repositories
 
-This project has three components **(rest api, web client, mobile client)** and they are in 3 different repositories.
+This project has the **(rest api, web client, mobile client)** components and they are in 3 different repositories.
 
 Here are the links to them
 
