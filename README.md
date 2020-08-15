@@ -8,6 +8,9 @@
   </a>
 </p>
 
+<img alt="Mockup" src=".github/gobarber_mockup.png">
+
+
 ## :file_folder: Project repositories
 
 This project has the **(rest api, web client, mobile client)** components and they are in 3 different repositories.
