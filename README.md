@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img alt="Mockup" src=".github/gobarber_mockup.png">
+<img alt="Mockup" src=".github/gobarber_mockup.svg">
 
 
 ## :file_folder: Project repositories
